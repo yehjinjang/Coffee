@@ -51,3 +51,11 @@ coffeeApp/
 │   ├── Assets.xcassets          # 이미지 및 색상 리소스
 │   ├── Preview Content          # SwiftUI 미리보기 데이터
 ```
+
+
+## Preview
+
+
+https://github.com/user-attachments/assets/06a67acf-88da-49cc-903f-612c07b9725f
+
+

@@ -1,5 +1,8 @@
 ## ☕️ Coffee App (Task1)
 
+## 📊 FlowChart
+<img width="600" alt="coffee_flowchart" src="https://github.com/user-attachments/assets/8d888c47-b1ea-4048-a46b-545b32c1ff8d" />
+
 ### 🔑 **Main Function**
 1. **음료 선택**  
    - 다양한 음료 리스트를 제공하며, 이미지, 설명, 가격 표시.  
@@ -25,9 +28,6 @@
 - **SwiftUI**: UI Framework
 - **Combine**: Data flow managing
 - **Python**: Data architecture Implementation
-
-## 📊 FlowChart
-<img width="696" alt="coffee_flowchart" src="https://github.com/user-attachments/assets/8d888c47-b1ea-4048-a46b-545b32c1ff8d" />
 
 
 ## 🏗️ **App Architecture**

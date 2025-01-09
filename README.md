@@ -26,8 +26,11 @@
 - **Combine**: Data flow managing
 - **Python**: Data architecture Implementation
 
+## 📊 FlowChart
+<img width="696" alt="coffee_flowchart" src="https://github.com/user-attachments/assets/8d888c47-b1ea-4048-a46b-545b32c1ff8d" />
 
-## 🏗️ **Architecture**
+
+## 🏗️ **App Architecture**
 - **MVVM**: Model-View-ViewModel 아키텍처 기반 설계
 
 ```
